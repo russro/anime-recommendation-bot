@@ -5,6 +5,6 @@ This project uses [data from MyAnimeList](https://www.kaggle.com/datasets/svanoo
 3. **Deep Learning Methods**
 
 **References**
-1. [User-Based Collaborative Filtering](https://www.geeksforgeeks.org/user-based-collaborative-filtering/): Implementation of Pearson Correlation.
+1. [User-Based Collaborative Filtering](https://www.geeksforgeeks.org/user-based-collaborative-filtering/)
 2. [Singular Value Decomposition vs. Matrix Factorization in Recommender Systems](https://www.freecodecamp.org/news/singular-value-decomposition-vs-matrix-factorization-in-recommender-systems-b1e99bc73599/)
    
